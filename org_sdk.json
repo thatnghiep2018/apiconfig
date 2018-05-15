@@ -1,0 +1,42 @@
+
+{
+  "ads": [
+    
+     {
+      "status": 1,
+      "package-name": "com.samsungmusic.edgeplayer.s9music.s9plus",
+      "name": "out",
+      "value": "com.facebook.katana",
+      "show-default": true,
+      "type": "5",
+      "enable": true,
+      "time-show": 0,
+      "time-after-start": 0,
+      "count-show": 0,
+      "max-show-day": 100,
+      "redirect": true,
+      "icon": "https://lh3.googleusercontent.com/Xuqbmqth3gVmiZ5L81nK_vN_hUjjBFpThV-SFY8pBMr_u-1_Q5Epd-F5H3XQATSqJQFx=s180-rw",
+      "cover": "https://lh3.googleusercontent.com/L7pyd16Ex96NpL1UGRxsUxUlMjcNJzs1QTeyhdmdYjqqgUgCm8VFcnnLOTPAkqTWibk=w720-h310-rw",
+      "info": "Đây là một app tuyệt vời ông mặt trời, Tải app này nếu k muốn ...",
+      "app-name": "Video Star"
+    }, 
+    {
+      "status": 1,
+      "package-name": "com.samsungmusic.edgeplayer.s9music.s9plus",
+      "name": "start",
+      "value": "com.facebook.katana",
+      "show-default": true,
+      "type": "5",
+      "enable": true,
+      "time-show": 0,
+      "time-after-start": 0,
+      "count-show": 0,
+      "max-show-day": 100,
+      "redirect": true,
+      "icon": "https://lh3.googleusercontent.com/Xuqbmqth3gVmiZ5L81nK_vN_hUjjBFpThV-SFY8pBMr_u-1_Q5Epd-F5H3XQATSqJQFx=s180-rw",
+      "cover": "https://lh3.googleusercontent.com/L7pyd16Ex96NpL1UGRxsUxUlMjcNJzs1QTeyhdmdYjqqgUgCm8VFcnnLOTPAkqTWibk=w720-h310-rw",
+      "info": "Đây là một app tuyệt vời ông mặt trời, Tải app này nếu k muốn ...",
+      "app-name": "Video Star"
+    }
+  ]
+}
