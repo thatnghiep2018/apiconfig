@@ -47,7 +47,7 @@
       "show-default": true,
       "type": "1",
       "enable": true,
-      "time-show": 60,
+      "time-show": 360,
       "time-after-start": 300000,
       "count-show": 0,
       "max-show-day": 10
@@ -60,7 +60,7 @@
       "show-default": true,
       "type": "1",
       "enable": true,
-      "time-show": 180,
+      "time-show": 360,
       "time-after-start": 0,
       "count-show": 0,
       "max-show-day": 10
