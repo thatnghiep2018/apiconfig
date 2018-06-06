@@ -1,2 +1,34 @@
-
-{"ads":[{"status":1,"package-name":"org.sdk","name":"click","value":"ca-app-pub-3940256099942544/1033173712","show-default":false,"type":"2","enable":true,"time-show":0,"time-after-start":0,"count-show":0,"max-show-day":100}]}
+{
+  "ads": [
+    {
+      "status": 1,
+      "package-name": "org.sdk",
+      "name": "click",
+      "value": "ca-app-pub-3940256099942544/1033173712",
+      "show-default": false,
+      "type": 2,
+      "enable": true,
+      "time-show": 0,
+      "time-after-start": 0,
+      "count-show": 0,
+      "max-show-day": 100
+    }
+  ],
+  "promo": [
+    {
+      "status": 1,
+      "package-name": "com.asuna.pclauncher.windowslauncher",
+      "name": "click",
+      "enable": true,
+      "icon": "icon",
+      "cover": "cover",
+      "info": "info",
+      "redirect": false,
+      "max-show-day": 100,
+      "count-show": 0,
+      "time-show": 0,
+      "type": 1,
+      "country": "VN,IN"
+    }
+  ]
+}
