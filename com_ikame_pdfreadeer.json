@@ -116,7 +116,7 @@
       "info": "Điều hướng mà không có nút",
       "redirect": false,
       "max-show-day": 100,
-      "count-show": 1,
+      "count-show": 3,
       "time-show": 0,
       "type": 1,
       "country": "vn"
