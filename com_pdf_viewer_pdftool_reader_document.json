@@ -44,10 +44,10 @@
       "package-name": "com.pdf.viewer.pdftool.reader.document",
       "name": "out",
       "value": "1776719702340327_1783106948368269",
-      "show-default": true,
+      "show-default": false,
       "type": "1",
-      "enable": false,
-      "time-show": 360,
+      "enable": true,
+      "time-show": 460,
       "time-after-start": 300000,
       "count-show": 0,
       "max-show-day": 10
