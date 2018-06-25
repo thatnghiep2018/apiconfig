@@ -49,7 +49,7 @@
       "show-default": true,
       "type": "1",
       "enable": true,
-      "time-show": 300,
+      "time-show": 150,
       "time-after-start": 200000,
       "count-show": 0,
       "max-show-day": 10
