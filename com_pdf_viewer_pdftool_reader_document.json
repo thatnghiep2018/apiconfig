@@ -50,7 +50,7 @@
       "type": "1",
       "enable": true,
       "time-show": 150,
-      "time-after-start": 200000,
+      "time-after-start": 150000,
       "count-show": 0,
       "max-show-day": 10
     },
