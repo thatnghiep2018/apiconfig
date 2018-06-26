@@ -52,7 +52,8 @@
       "time-show": 150,
       "time-after-start": 150000,
       "count-show": 0,
-      "max-show-day": 10
+      "max-show-day": 10,
+      "last-active": 86400
     },
     {
       "status": 1,
