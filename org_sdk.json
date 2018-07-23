@@ -39,6 +39,20 @@
       "time-after-start": 0,
       "count-show": 0,
       "max-show-day": 10
+    },
+    {
+      "status": 1,
+      "package-name": "com.pdf.viewer.pdftool.reader.document",
+      "name": "read",
+      "value": "1776719702340327_1776720569006907",
+      "show-default": true,
+      "type": "1",
+      "enable": true,
+      "time-show": 20,
+      "time-after-start": 30,
+      "count-show": 0,
+      "max-show-day": 10,
+      "show-loading": true
     }
   ],
   "promo": [
