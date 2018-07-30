@@ -8,10 +8,10 @@
       "show-default": true,
       "type": "1",
       "enable": true,
-      "time-show": 20,
+      "time-show": 10,
       "time-after-start": 0,
       "count-show": 0,
-      "max-show-day": 10,
+      "max-show-day": 15,
       "show-loading": true
     },
     {
@@ -35,10 +35,10 @@
       "show-default": true,
       "type": "1",
       "enable": true,
-      "time-show": 20,
-      "time-after-start": 30,
+      "time-show": 10,
+      "time-after-start": 0,
       "count-show": 0,
-      "max-show-day": 10,
+      "max-show-day": 15,
       "show-loading": true
     },
     {
@@ -53,7 +53,7 @@
       "time-after-start": 100000,
       "count-show": 0,
       "max-show-day": 10,
-      "last-active": 10000
+      "last-active": 5000
     },
     {
       "status": 1,
