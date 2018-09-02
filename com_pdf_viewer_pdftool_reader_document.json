@@ -22,7 +22,7 @@
       "show-default": false,
       "type": "2",
       "enable": true,
-      "time-show": 10,
+      "time-show": 20,
       "time-after-start": 0,
       "count-show": 0,
       "max-show-day": 50
@@ -35,7 +35,7 @@
       "show-default": true,
       "type": "1",
       "enable": true,
-      "time-show": 10,
+      "time-show": 20,
       "time-after-start": 0,
       "count-show": 0,
       "max-show-day": 15,
