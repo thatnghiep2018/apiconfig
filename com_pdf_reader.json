@@ -2,29 +2,16 @@
   "ads": [
     {
       "status": 1,
-      "package-name": "org.sdk",
-      "name": "click",
-      "value": "ca-app-pub-3940256099942544/1033173712",
-      "show-default": false,
-      "type": 2,
-      "enable": true,
-      "time-show": 0,
-      "time-after-start": 0,
-      "count-show": 0,
-      "max-show-day": 100
-    },
-    {
-      "status": 1,
       "package-name": "com.pdf.viewer.pdftool.reader.document",
       "name": "start",
       "value": "1776719702340327_1776720569006907",
       "show-default": true,
       "type": "1",
       "enable": true,
-      "time-show": 0,
+      "time-show": 30,
       "time-after-start": 0,
       "count-show": 0,
-      "max-show-day": 100,
+      "max-show-day": 15,
       "show-loading": true
     },
     {
@@ -35,10 +22,10 @@
       "show-default": false,
       "type": "2",
       "enable": true,
-      "time-show": 0,
+      "time-show": 20,
       "time-after-start": 0,
       "count-show": 0,
-      "max-show-day": 10
+      "max-show-day": 50
     },
     {
       "status": 1,
@@ -48,14 +35,80 @@
       "show-default": true,
       "type": "1",
       "enable": true,
-      "time-show": 0,
+      "time-show": 30,
       "time-after-start": 0,
       "count-show": 0,
-      "max-show-day": 300,
+      "max-show-day": 15,
       "show-loading": true
+    },
+    {
+      "status": 1,
+      "package-name": "com.pdf.viewer.pdftool.reader.document",
+      "name": "out",
+      "value": "1776719702340327_1783106948368269",
+      "show-default": true,
+      "type": "1",
+      "enable": true,
+      "time-show": 60,
+      "time-after-start": 0,
+      "count-show": 0,
+      "max-show-day": 100,
+      "last-active": 0
+    },
+    {
+      "status": 1,
+      "package-name": "com.pdf.viewer.pdftool.reader.document",
+      "name": "native_read",
+      "value": "1776719702340327_1823231561022474",
+      "show-default": true,
+      "type": "1",
+      "enable": true,
+      "time-show": 360,
+      "time-after-start": 0,
+      "count-show": 0,
+      "max-show-day": 10
+    },
+    {
+      "status": 1,
+      "package-name": "com.pdf.viewer.pdftool.reader.document",
+      "name": "native",
+      "value": "1776719702340327_1823231561022474",
+      "show-default": true,
+      "type": "1",
+      "enable": true,
+      "time-show": 20,
+      "time-after-start": 0,
+      "count-show": 0,
+      "max-show-day": 10
+    },
+    {
+      "status": 1,
+      "package-name": "com.pdf.viewer.pdftool.reader.document",
+      "name": "banner",
+      "value": "1776719702340327_1823230987689198",
+      "show-default": true,
+      "type": "1",
+      "enable": true,
+      "time-show": 20,
+      "time-after-start": 0,
+      "count-show": 0,
+      "max-show-day": 10
+    },
+    {
+      "status": 1,
+      "package-name": "com.pdf.viewer.pdftool.reader.document",
+      "name": "native_exit",
+      "value": "1776719702340327_1884763654869264",
+      "show-default": true,
+      "type": "1",
+      "enable": true,
+      "time-show": 20,
+      "time-after-start": 0,
+      "count-show": 0,
+      "max-show-day": 10
     }
   ],
   "promo": [
-   
+  
   ]
 }
