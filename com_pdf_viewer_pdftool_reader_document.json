@@ -50,10 +50,10 @@
       "type": "1",
       "enable": true,
       "time-show": 350,
-      "time-after-start": 186400,
+      "time-after-start": 200000,
       "count-show": 0,
-      "max-show-day": 15,
-      "last-active": 86400
+      "max-show-day": 5,
+      "last-active": 200000
     },
     {
       "status": 1,
