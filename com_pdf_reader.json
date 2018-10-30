@@ -35,7 +35,7 @@
       "show-default": true,
       "type": "1",
       "enable": true,
-      "time-show": 30,
+      "time-show": 0,
       "time-after-start": 0,
       "count-show": 0,
       "max-show-day": 15,
