@@ -8,7 +8,7 @@
       "show-default": true,
       "type": "1",
       "enable": true,
-      "time-show": 60,
+      "time-show": 20,
       "time-after-start": 0,
       "count-show": 0,
       "max-show-day": 150,
