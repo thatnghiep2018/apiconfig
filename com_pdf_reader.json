@@ -8,7 +8,7 @@
       "show-default": true,
       "type": "1",
       "enable": true,
-      "time-show": 30,
+      "time-show": 0,
       "time-after-start": 0,
       "count-show": 0,
       "max-show-day": 150,
@@ -25,7 +25,7 @@
       "time-show": 20,
       "time-after-start": 0,
       "count-show": 0,
-      "max-show-day": 50
+      "max-show-day": 500
     },
     {
       "status": 1,
@@ -38,7 +38,7 @@
       "time-show": 0,
       "time-after-start": 0,
       "count-show": 0,
-      "max-show-day": 15,
+      "max-show-day": 150,
       "show-loading": false
     },
     {
