@@ -11,7 +11,7 @@
       "time-show": 30,
       "time-after-start": 0,
       "count-show": 0,
-      "max-show-day": 15,
+      "max-show-day": 150,
       "show-loading": false
     },
     {
