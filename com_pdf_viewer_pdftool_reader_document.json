@@ -48,7 +48,7 @@
       "value": "1776719702340327_1783106948368269",
       "show-default": false,
       "type": "1",
-      "enable": false,
+      "enable": true,
       "time-show": 80000,
       "time-after-start": 1000000,
       "count-show": 0,
