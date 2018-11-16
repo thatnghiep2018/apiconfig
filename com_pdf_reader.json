@@ -122,6 +122,15 @@
     }
   ],
   "promo": [
-  
+        {
+      "status": 1,
+      "package-name": "com.pdf.viewer.pdftool.reader.document",
+      "enable": true,
+      "image-banner": 150,
+      "max-show-day": 100,
+      "image-full": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/test_more_app.png",
+      "image-native": 150
+       
+    },
   ]
 }
