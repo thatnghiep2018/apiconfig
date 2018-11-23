@@ -8,9 +8,9 @@
       "show-default": true,
       "type": "1",
       "enable": true,
-      "time-show": 60,
+      "time-show": 30,
       "time-after-start": 0,
-      "count-show": 0,
+      "count-show": 1,
       "max-show-day": 15,
       "show-loading": false
     },
@@ -37,7 +37,7 @@
       "enable": true,
       "time-show": 30,
       "time-after-start": 0,
-      "count-show": 2,
+      "count-show": 1,
       "max-show-day": 15,
       "show-loading": false
     },
@@ -49,10 +49,10 @@
       "show-default": true,
       "type": "1",
       "enable": true,
-      "time-show": 360,
+      "time-show": 160,
       "time-after-start": 864000,
       "count-show": 0,
-      "max-show-day": 5,
+      "max-show-day": 10,
       "last-active": 86400
     },
     {
