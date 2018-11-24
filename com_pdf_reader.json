@@ -126,10 +126,10 @@
       "status": 1,
       "package-name": "com.deepsleep.sleep.soft.music.sounds",
       "enable": true,
-      "image-banner": 150,
+      "image-banner": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/test_more_app.png",
       "max-show-day": 100,
       "image-full": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/test_more_app.png",
-      "image-native": 150
+      "image-native": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/test_more_app.png"
     }
   ]
 }
