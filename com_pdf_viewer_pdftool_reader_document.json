@@ -115,7 +115,7 @@
       "enable": true,
       "image-banner": "",
       "max-show-day": 30,
-      "image-full": "",
+      "image-full": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/full_sleep.png",
       "image-native": ""
     }
   ]
