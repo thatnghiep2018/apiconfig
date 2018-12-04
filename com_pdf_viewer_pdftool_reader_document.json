@@ -116,7 +116,7 @@
       "image-banner": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/sleep_banner.png",
       "max-show-day": 30,
       "image-full": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/full_sleep.png",
-      "image-native": ""
+      "image-native": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/sleep_native.png"
     }
   ]
 }
