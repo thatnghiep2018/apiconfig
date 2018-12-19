@@ -8,7 +8,7 @@
       "show-default": true,
       "type": "1",
       "enable": true,
-      "time-show": 45,
+      "time-show": 30,
       "time-after-start": 0,
       "count-show": 1,
       "max-show-day": 10,
@@ -50,10 +50,10 @@
       "type": "1",
       "enable": true,
       "time-show": 10000,
-      "time-after-start": 864000,
+      "time-after-start": 432000,
       "count-show": 0,
-      "max-show-day": 10,
-      "last-active": 864000
+      "max-show-day": 3,
+      "last-active": 200000
     },
     {
       "status": 1,
