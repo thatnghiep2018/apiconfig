@@ -49,11 +49,11 @@
       "show-default": true,
       "type": "1",
       "enable": true,
-      "time-show": 10000,
+      "time-show": 1000,
       "time-after-start": 432000,
       "count-show": 0,
       "max-show-day": 3,
-      "last-active": 200000
+      "last-active": 86400
     },
     {
       "status": 1,
