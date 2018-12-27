@@ -58,7 +58,7 @@
     {
       "status": 1,
       "package-name": "com.pdf.viewer.pdftool.reader.document",
-      "name": "admob_native",
+      "name": "admob_banner",
       "value": "ca-app-pub-3940256099942544/6300978111",
       "show-default": true,
       "type": "2",
