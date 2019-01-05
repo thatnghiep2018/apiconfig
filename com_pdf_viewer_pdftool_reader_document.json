@@ -86,7 +86,7 @@
      {
       "status": 1,
       "package-name": "com.relax.naturalsounds.sleepsound",
-      "enable": true,
+      "enable": false,
       "image-banner": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/sleep_banner.png",
       "max-show-day": 30,
       "image-full": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/full_sleep.png",
