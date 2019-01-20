@@ -49,8 +49,8 @@
       "show-default": true,
       "type": "1",
       "enable": true,
-      "time-show": 500,
-      "time-after-start": 150000,
+      "time-show": 300,
+      "time-after-start": 86400,
       "count-show": 0,
       "max-show-day": 5,
       "last-active": 86400
