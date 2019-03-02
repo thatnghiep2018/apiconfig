@@ -85,7 +85,7 @@
   "promo": [
      {
       "status": 1,
-      "package-name": "com.relax.naturalsounds.sleepsound",
+      "package-name": "com.digital.compass",
       "enable": true,
       "image-banner": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/compass_banner_1.png",
       "max-show-day": 30,
@@ -94,7 +94,7 @@
     },
      {
       "status": 1,
-      "package-name": "com.relax.naturalsounds.sleepsound",
+      "package-name": "com.digital.compass",
       "enable": true,
       "image-banner": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/compass_banner_2.png",
       "max-show-day": 30,
