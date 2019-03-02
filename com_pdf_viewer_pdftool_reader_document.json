@@ -86,11 +86,20 @@
      {
       "status": 1,
       "package-name": "com.relax.naturalsounds.sleepsound",
-      "enable": false,
-      "image-banner": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/sleep_banner.png",
+      "enable": true,
+      "image-banner": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/compass_banner_1.png",
       "max-show-day": 30,
-      "image-full": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/full_sleep.png",
-      "image-native": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/sleep_native.png"
+      "image-full": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/compass_full_1.png",
+      "image-native": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/compass_native_1.png"
+    },
+     {
+      "status": 1,
+      "package-name": "com.relax.naturalsounds.sleepsound",
+      "enable": true,
+      "image-banner": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/compass_banner_2.png",
+      "max-show-day": 30,
+      "image-full": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/compass_full_2.png",
+      "image-native": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/compass_native_2.png"
     }
   ]
 }
