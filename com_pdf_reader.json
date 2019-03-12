@@ -124,12 +124,21 @@
   "promo": [
      {
       "status": 1,
-      "package-name": "com.deepsleep.sleep.soft.music.sounds",
+      "package-name": "com.digital.compass",
       "enable": true,
-      "image-banner": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/test_more_app.png",
-      "max-show-day": 100,
-      "image-full": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/full_sleep.png",
-      "image-native": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/native_pdf.png"
+      "image-banner": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/compass_banner_1.png",
+      "max-show-day": 30,
+      "image-full": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/compass_full_1.png",
+      "image-native": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/compass_native_1.png"
+    },
+     {
+      "status": 1,
+      "package-name": "com.digital.compass",
+      "enable": true,
+      "image-banner": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/compass_banner_2.png",
+      "max-show-day": 30,
+      "image-full": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/compass_full_2.png",
+      "image-native": "https://raw.githubusercontent.com/thatnghiep2018/apiconfig/master/compass_native_2.png"
     }
   ]
 }
