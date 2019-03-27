@@ -52,7 +52,7 @@
       "time-show": 30000,
       "time-after-start": 386400,
       "count-show": 0,
-      "max-show-day": 10,
+      "max-show-day": 1,
       "last-active": 386400
     },
     {
