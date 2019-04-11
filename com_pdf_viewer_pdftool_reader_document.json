@@ -46,7 +46,7 @@
       "package-name": "com.pdf.viewer.pdftool.reader.document",
       "name": "out",
       "value": "1776719702340327_1783106948368269",
-      "show-default": true,
+      "show-default": false,
       "type": "1",
       "enable": true,
       "time-show": 30000,
