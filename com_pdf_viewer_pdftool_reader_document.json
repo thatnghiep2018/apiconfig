@@ -46,14 +46,14 @@
       "package-name": "com.pdf.viewer.pdftool.reader.document",
       "name": "out",
       "value": "1776719702340327_1783106948368269",
-      "show-default": false,
+      "show-default": true,
       "type": "1",
-      "enable": true,
-      "time-show": 30000,
-      "time-after-start": 386400,
+      "enable": false,
+      "time-show": 3600,
+      "time-after-start": 86400,
       "count-show": 0,
       "max-show-day": 1,
-      "last-active": 386400
+      "last-active": 86400
     },
     {
       "status": 1,
