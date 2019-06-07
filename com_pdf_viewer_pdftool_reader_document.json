@@ -14,6 +14,20 @@
       "max-show-day": 20,
       "show-loading": false
     },
+      {
+      "status": 1,
+      "package-name": "com.pdf.viewer.pdftool.reader.document",
+      "name": "start2",
+      "value": "ca-app-pub-5686065012807485/6503459982",
+      "show-default": true,
+      "type": "2",
+      "enable": true,
+      "time-show": 30,
+      "time-after-start": 0,
+      "count-show": 1,
+      "max-show-day": 20,
+      "show-loading": false
+    },
     {
       "status": 1,
       "package-name": "com.pdf.viewer.pdftool.reader.document",
