@@ -1,1898 +1,2137 @@
 {
   "BD": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "BE": [
-    "mintegral",
+    "appnext",
+    "ironsrc",
     "mopub",
     "display",
     "unity",
-    "ironsrc",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "BF": [
+    "appnext",
     "ironsrc",
     "unity",
     "display",
     "mopub",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "BG": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "BA": [
+    "appnext",
     "mopub",
     "unity",
     "display",
     "ironsrc",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "BB": [
+    "appnext",
     "mintegral",
-    "mopub",
-    "display",
-    "ironsrc",
     "unity",
-    "appnext"
+    "display",
+    "mopub",
+    "ironsrc",
+    "tappx"
   ],
   "WF": [
-    "ironsrc",
-    "unity",
+    "appnext",
+    "mintegral",
     "display",
-    "mopub",
-    "appnext"
+    "tappx"
   ],
   "BL": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
-    "appnext"
+    "unity",
+    "tappx"
   ],
   "BM": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "BN": [
-    "mopub",
+    "appnext",
     "ironsrc",
-    "display",
     "mintegral",
+    "display",
+    "mopub",
     "unity",
-    "appnext"
+    "tappx"
   ],
   "BO": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "BH": [
-    "ironsrc",
+    "appnext",
     "mopub",
-    "display",
     "unity",
+    "display",
+    "ironsrc",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "BI": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "BJ": [
-    "ironsrc",
-    "unity",
-    "display",
-    "mintegral",
+    "appnext",
     "mopub",
-    "appnext"
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "tappx"
   ],
   "BT": [
-    "mopub",
-    "ironsrc",
-    "display",
+    "appnext",
     "mintegral",
+    "mopub",
+    "display",
+    "ironsrc",
     "unity",
-    "appnext"
+    "tappx"
   ],
   "JM": [
-    "ironsrc",
+    "appnext",
     "mopub",
-    "display",
     "unity",
+    "display",
     "mintegral",
-    "appnext"
+    "ironsrc",
+    "tappx"
   ],
   "BV": [
+    "appnext",
     "display",
-    "appnext"
+    "tappx"
   ],
   "BW": [
-    "ironsrc",
-    "unity",
-    "display",
+    "appnext",
     "mopub",
+    "ironsrc",
+    "display",
     "mintegral",
-    "appnext"
+    "unity",
+    "tappx"
   ],
   "WS": [
+    "appnext",
     "ironsrc",
-    "mintegral",
-    "display",
     "unity",
+    "display",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "BQ": [
-    "mopub",
-    "ironsrc",
-    "display",
+    "appnext",
     "mintegral",
-    "appnext"
+    "mopub",
+    "display",
+    "ironsrc",
+    "tappx"
   ],
   "BR": [
-    "mintegral",
+    "appnext",
     "ironsrc",
+    "mintegral",
     "display",
     "mopub",
     "unity",
-    "appnext"
+    "tappx"
   ],
   "BS": [
-    "ironsrc",
+    "appnext",
     "mopub",
+    "unity",
     "display",
     "mintegral",
-    "unity",
-    "appnext"
+    "ironsrc",
+    "tappx"
   ],
   "JE": [
-    "ironsrc",
+    "appnext",
+    "unity",
     "mintegral",
     "display",
-    "unity",
     "mopub",
-    "appnext"
+    "ironsrc",
+    "tappx"
   ],
   "BY": [
+    "appnext",
     "ironsrc",
     "mopub",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "BZ": [
-    "unity",
+    "appnext",
+    "mintegral",
     "mopub",
     "display",
     "ironsrc",
-    "mintegral",
-    "appnext"
+    "unity",
+    "tappx"
   ],
   "RU": [
-    "ironsrc",
+    "appnext",
     "mopub",
+    "ironsrc",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "RW": [
+    "appnext",
     "mopub",
-    "ironsrc",
-    "display",
     "mintegral",
+    "display",
+    "ironsrc",
     "unity",
-    "appnext"
+    "tappx"
   ],
   "RS": [
-    "ironsrc",
+    "appnext",
     "mopub",
-    "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "display",
+    "ironsrc",
+    "mintegral",
+    "tappx"
   ],
   "TL": [
-    "ironsrc",
-    "mintegral",
-    "display",
+    "appnext",
     "unity",
     "mopub",
-    "appnext"
+    "display",
+    "mintegral",
+    "ironsrc",
+    "tappx"
   ],
   "RE": [
+    "appnext",
     "mopub",
     "unity",
     "display",
     "ironsrc",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "TM": [
+    "appnext",
+    "ironsrc",
     "display",
-    "appnext"
+    "tappx"
   ],
   "TJ": [
-    "ironsrc",
-    "mintegral",
-    "display",
+    "appnext",
     "unity",
     "mopub",
-    "appnext"
+    "display",
+    "mintegral",
+    "ironsrc",
+    "tappx"
   ],
   "RO": [
-    "ironsrc",
+    "appnext",
     "mopub",
-    "display",
     "unity",
+    "display",
+    "ironsrc",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "TK": [
+    "appnext",
     "display",
-    "appnext"
+    "tappx"
   ],
   "GW": [
-    "mintegral",
-    "unity",
+    "appnext",
     "display",
-    "mopub",
-    "ironsrc",
-    "appnext"
+    "tappx"
   ],
   "GU": [
-    "ironsrc",
+    "appnext",
     "mopub",
+    "unity",
     "display",
     "mintegral",
-    "unity",
-    "appnext"
+    "ironsrc",
+    "tappx"
   ],
   "GT": [
+    "appnext",
     "mopub",
-    "ironsrc",
-    "display",
     "unity",
+    "display",
+    "ironsrc",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "GS": [
+    "appnext",
     "display",
-    "appnext"
+    "tappx"
   ],
   "GR": [
+    "appnext",
     "mopub",
-    "ironsrc",
-    "display",
     "unity",
+    "display",
     "mintegral",
-    "appnext"
+    "ironsrc",
+    "tappx"
   ],
   "GQ": [
-    "mintegral",
+    "appnext",
     "unity",
+    "mintegral",
     "display",
     "mopub",
     "ironsrc",
-    "appnext"
+    "tappx"
   ],
   "GP": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "JP": [
+    "appnext",
+    "unity",
     "ironsrc",
-    "mintegral",
     "display",
     "mopub",
-    "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "GY": [
-    "mintegral",
+    "appnext",
+    "mopub",
     "unity",
     "display",
-    "mopub",
+    "mintegral",
     "ironsrc",
-    "appnext"
+    "tappx"
   ],
   "GG": [
-    "mintegral",
+    "appnext",
     "unity",
+    "mintegral",
     "display",
     "mopub",
     "ironsrc",
-    "appnext"
+    "tappx"
   ],
   "GF": [
+    "appnext",
     "unity",
     "mintegral",
     "display",
     "mopub",
     "ironsrc",
-    "appnext"
+    "tappx"
   ],
   "GE": [
+    "appnext",
+    "ironsrc",
     "mopub",
-    "mintegral",
     "display",
     "unity",
-    "ironsrc",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "GD": [
-    "mintegral",
+    "appnext",
     "unity",
+    "mintegral",
     "display",
     "mopub",
     "ironsrc",
-    "appnext"
+    "tappx"
   ],
   "GB": [
+    "appnext",
     "ironsrc",
     "unity",
     "display",
     "mopub",
-    "appnext"
+    "tappx"
   ],
   "GA": [
+    "appnext",
     "mopub",
-    "ironsrc",
-    "display",
     "unity",
+    "display",
+    "ironsrc",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "SV": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "GN": [
+    "appnext",
     "unity",
     "mintegral",
     "display",
     "mopub",
     "ironsrc",
-    "appnext"
+    "tappx"
   ],
   "GM": [
-    "ironsrc",
+    "appnext",
+    "unity",
     "mintegral",
     "display",
-    "unity",
     "mopub",
-    "appnext"
+    "ironsrc",
+    "tappx"
   ],
   "GL": [
-    "mintegral",
+    "appnext",
     "unity",
+    "mintegral",
     "display",
     "mopub",
     "ironsrc",
-    "appnext"
+    "tappx"
   ],
   "GI": [
-    "ironsrc",
-    "mopub",
-    "display",
-    "mintegral",
+    "appnext",
     "unity",
-    "appnext"
+    "mintegral",
+    "display",
+    "mopub",
+    "ironsrc",
+    "tappx"
   ],
   "GH": [
+    "appnext",
+    "ironsrc",
     "mopub",
-    "mintegral",
     "display",
     "unity",
-    "ironsrc",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "OM": [
-    "mopub",
-    "unity",
-    "display",
+    "appnext",
     "ironsrc",
+    "mopub",
+    "display",
+    "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "TN": [
-    "ironsrc",
-    "mintegral",
-    "display",
-    "unity",
+    "appnext",
     "mopub",
-    "appnext"
+    "unity",
+    "display",
+    "mintegral",
+    "ironsrc",
+    "tappx"
   ],
   "JO": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "HR": [
-    "unity",
+    "appnext",
     "mintegral",
-    "display",
-    "mopub",
     "ironsrc",
-    "appnext"
+    "display",
+    "unity",
+    "mopub",
+    "tappx"
   ],
   "HT": [
-    "mopub",
-    "unity",
-    "display",
-    "mintegral",
+    "appnext",
     "ironsrc",
-    "appnext"
+    "mopub",
+    "display",
+    "unity",
+    "mintegral",
+    "tappx"
   ],
   "HU": [
+    "appnext",
     "mopub",
     "unity",
     "display",
-    "ironsrc",
     "mintegral",
-    "appnext"
+    "ironsrc",
+    "tappx"
   ],
   "HK": [
-    "ironsrc",
+    "appnext",
+    "unity",
     "mopub",
     "display",
     "mintegral",
-    "unity",
-    "appnext"
+    "ironsrc",
+    "tappx"
   ],
   "HN": [
+    "appnext",
     "mopub",
-    "unity",
-    "display",
     "ironsrc",
+    "display",
+    "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "HM": [
+    "appnext",
     "display",
-    "appnext"
+    "tappx"
   ],
   "VE": [
+    "appnext",
     "mopub",
-    "ironsrc",
-    "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "display",
+    "ironsrc",
+    "mintegral",
+    "tappx"
   ],
   "PR": [
+    "appnext",
     "ironsrc",
     "mopub",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "PS": [
+    "appnext",
     "mopub",
-    "ironsrc",
-    "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "display",
+    "ironsrc",
+    "mintegral",
+    "tappx"
   ],
   "PW": [
-    "ironsrc",
+    "appnext",
     "mintegral",
+    "ironsrc",
     "display",
     "unity",
     "mopub",
-    "appnext"
+    "tappx"
   ],
   "PT": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "SJ": [
+    "appnext",
     "display",
-    "appnext"
+    "tappx"
   ],
   "PY": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "IQ": [
+    "appnext",
     "mopub",
-    "unity",
-    "display",
     "ironsrc",
+    "display",
+    "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "PA": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "PF": [
-    "unity",
+    "appnext",
+    "mopub",
     "ironsrc",
     "display",
+    "unity",
     "mintegral",
-    "mopub",
-    "appnext"
+    "tappx"
   ],
   "PG": [
-    "ironsrc",
+    "appnext",
+    "unity",
     "mintegral",
     "display",
-    "unity",
+    "ironsrc",
     "mopub",
-    "appnext"
+    "tappx"
   ],
   "PE": [
-    "mopub",
-    "unity",
-    "display",
+    "appnext",
     "ironsrc",
+    "mopub",
+    "display",
+    "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "PK": [
+    "appnext",
     "mopub",
-    "mintegral",
-    "display",
     "ironsrc",
+    "display",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "PH": [
+    "appnext",
     "mopub",
     "unity",
     "display",
-    "ironsrc",
     "mintegral",
-    "appnext"
+    "ironsrc",
+    "tappx"
   ],
   "PN": [
+    "appnext",
     "display",
-    "appnext"
+    "tappx"
   ],
   "PL": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "PM": [
-    "ironsrc",
+    "appnext",
     "mintegral",
+    "ironsrc",
     "display",
     "unity",
     "mopub",
-    "appnext"
+    "tappx"
   ],
   "ZM": [
-    "mopub",
+    "appnext",
     "ironsrc",
+    "mopub",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "EH": [
+    "appnext",
     "display",
-    "appnext"
+    "tappx"
   ],
   "EE": [
-    "mopub",
+    "appnext",
     "ironsrc",
+    "mopub",
     "display",
-    "unity",
     "mintegral",
-    "appnext"
+    "unity",
+    "tappx"
   ],
   "EG": [
-    "mopub",
-    "mintegral",
-    "display",
+    "appnext",
     "ironsrc",
+    "mopub",
+    "display",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "ZA": [
+    "appnext",
     "ironsrc",
     "unity",
     "display",
     "mopub",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "EC": [
+    "appnext",
     "mopub",
-    "ironsrc",
-    "display",
     "unity",
+    "display",
+    "ironsrc",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "IT": [
+    "appnext",
     "ironsrc",
     "mopub",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "VN": [
+    "appnext",
     "ironsrc",
-    "mopub",
-    "display",
-    "unity",
     "mintegral",
-    "appnext"
+    "display",
+    "mopub",
+    "unity",
+    "tappx"
   ],
   "SB": [
-    "ironsrc",
+    "appnext",
     "mintegral",
+    "ironsrc",
     "display",
     "unity",
     "mopub",
-    "appnext"
+    "tappx"
   ],
   "ET": [
-    "ironsrc",
+    "appnext",
     "unity",
+    "ironsrc",
     "display",
-    "mopub",
     "mintegral",
-    "appnext"
+    "mopub",
+    "tappx"
   ],
   "SO": [
-    "mintegral",
-    "mopub",
-    "display",
+    "appnext",
     "ironsrc",
     "unity",
-    "appnext"
+    "display",
+    "mopub",
+    "mintegral",
+    "tappx"
   ],
   "ZW": [
-    "ironsrc",
-    "mintegral",
-    "display",
+    "appnext",
     "unity",
     "mopub",
-    "appnext"
+    "display",
+    "mintegral",
+    "ironsrc",
+    "tappx"
   ],
   "SA": [
-    "mopub",
-    "mintegral",
-    "display",
+    "appnext",
     "ironsrc",
+    "mopub",
+    "display",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "ES": [
+    "appnext",
     "ironsrc",
-    "mintegral",
-    "display",
     "mopub",
+    "display",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "ER": [
+    "appnext",
+    "mintegral",
     "display",
-    "appnext"
+    "tappx"
   ],
   "ME": [
+    "appnext",
     "ironsrc",
-    "mintegral",
-    "display",
     "unity",
+    "display",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "MD": [
-    "ironsrc",
+    "appnext",
     "mopub",
+    "ironsrc",
     "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "MG": [
-    "unity",
+    "appnext",
     "ironsrc",
+    "unity",
     "display",
-    "mintegral",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "MF": [
+    "appnext",
     "ironsrc",
-    "mintegral",
-    "display",
     "unity",
+    "display",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "MA": [
-    "unity",
+    "appnext",
     "mopub",
-    "display",
     "ironsrc",
+    "display",
+    "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "MC": [
+    "appnext",
     "ironsrc",
-    "mintegral",
-    "display",
     "unity",
+    "display",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "UZ": [
-    "ironsrc",
+    "appnext",
     "unity",
+    "mopub",
     "display",
     "mintegral",
-    "mopub",
-    "appnext"
+    "ironsrc",
+    "tappx"
   ],
   "MM": [
+    "appnext",
     "mopub",
-    "ironsrc",
-    "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "display",
+    "ironsrc",
+    "mintegral",
+    "tappx"
   ],
   "ML": [
-    "unity",
-    "ironsrc",
-    "display",
-    "mintegral",
+    "appnext",
     "mopub",
-    "appnext"
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "tappx"
   ],
   "MO": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "MN": [
+    "appnext",
     "ironsrc",
-    "mintegral",
-    "display",
     "unity",
+    "display",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "MH": [
+    "appnext",
     "ironsrc",
     "unity",
     "display",
-    "appnext"
+    "mopub",
+    "mintegral",
+    "tappx"
   ],
   "MK": [
-    "mintegral",
+    "appnext",
+    "mopub",
     "ironsrc",
     "display",
     "unity",
-    "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "MU": [
+    "appnext",
     "mopub",
-    "unity",
-    "display",
     "ironsrc",
+    "display",
+    "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "MT": [
+    "appnext",
     "unity",
     "ironsrc",
     "display",
-    "mintegral",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "MW": [
-    "unity",
+    "appnext",
     "ironsrc",
+    "unity",
     "display",
-    "mintegral",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "MV": [
+    "appnext",
     "ironsrc",
-    "mintegral",
-    "display",
     "unity",
+    "display",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "MQ": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "MP": [
+    "appnext",
     "ironsrc",
-    "mintegral",
-    "display",
     "unity",
+    "display",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "MS": [
-    "ironsrc",
-    "unity",
+    "appnext",
     "display",
-    "mopub",
-    "appnext"
+    "tappx"
   ],
   "MR": [
+    "appnext",
     "ironsrc",
-    "mintegral",
-    "display",
     "unity",
+    "display",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "IM": [
-    "mintegral",
+    "appnext",
     "unity",
+    "mintegral",
     "display",
     "mopub",
     "ironsrc",
-    "appnext"
+    "tappx"
   ],
   "UG": [
-    "ironsrc",
+    "appnext",
     "mopub",
-    "display",
     "unity",
+    "display",
+    "ironsrc",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "TZ": [
+    "appnext",
     "mopub",
     "unity",
     "display",
-    "ironsrc",
     "mintegral",
-    "appnext"
+    "ironsrc",
+    "tappx"
   ],
   "MY": [
-    "ironsrc",
-    "mintegral",
-    "display",
+    "appnext",
     "mopub",
+    "ironsrc",
+    "display",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "MX": [
-    "ironsrc",
+    "appnext",
     "mopub",
+    "ironsrc",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "IL": [
-    "mintegral",
+    "appnext",
     "ironsrc",
+    "unity",
     "display",
     "mopub",
-    "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "FR": [
+    "appnext",
     "ironsrc",
-    "mopub",
-    "display",
     "unity",
+    "display",
+    "mopub",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "IO": [
+    "appnext",
     "display",
-    "appnext"
+    "tappx"
   ],
   "SH": [
+    "appnext",
     "display",
-    "appnext"
+    "tappx"
   ],
   "FI": [
+    "appnext",
     "mopub",
     "unity",
     "display",
-    "ironsrc",
     "mintegral",
-    "appnext"
+    "ironsrc",
+    "tappx"
   ],
   "FJ": [
+    "appnext",
     "ironsrc",
-    "unity",
-    "display",
     "mopub",
+    "display",
+    "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "FK": [
-    "unity",
-    "ironsrc",
+    "appnext",
     "display",
-    "appnext"
+    "tappx"
   ],
   "FM": [
-    "mintegral",
+    "appnext",
     "unity",
+    "mintegral",
     "display",
+    "mopub",
     "ironsrc",
-    "appnext"
+    "tappx"
   ],
   "FO": [
-    "mopub",
-    "mintegral",
-    "display",
+    "appnext",
     "unity",
+    "mopub",
+    "display",
     "ironsrc",
-    "appnext"
+    "tappx"
   ],
   "NI": [
+    "appnext",
     "mopub",
-    "mintegral",
-    "display",
     "unity",
+    "display",
     "ironsrc",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "NL": [
-    "ironsrc",
+    "appnext",
     "unity",
+    "ironsrc",
     "display",
     "mopub",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "NO": [
+    "appnext",
     "unity",
     "mopub",
     "display",
     "ironsrc",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "NA": [
+    "appnext",
     "mopub",
-    "unity",
-    "display",
     "ironsrc",
+    "display",
+    "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "VU": [
-    "ironsrc",
-    "mintegral",
-    "display",
+    "appnext",
     "unity",
     "mopub",
-    "appnext"
+    "display",
+    "mintegral",
+    "ironsrc",
+    "tappx"
   ],
   "NC": [
+    "appnext",
     "ironsrc",
-    "mintegral",
-    "display",
     "unity",
+    "display",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "NE": [
+    "appnext",
     "ironsrc",
-    "mintegral",
-    "display",
     "unity",
+    "display",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "NF": [
+    "appnext",
     "display",
-    "appnext"
+    "tappx"
   ],
   "NG": [
+    "appnext",
     "mopub",
-    "mintegral",
+    "ironsrc",
     "display",
     "unity",
-    "ironsrc",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "NZ": [
-    "ironsrc",
+    "appnext",
+    "mintegral",
     "mopub",
     "display",
-    "mintegral",
+    "ironsrc",
     "unity",
-    "appnext"
+    "tappx"
   ],
   "NP": [
+    "appnext",
     "ironsrc",
-    "mintegral",
-    "display",
     "unity",
+    "display",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "NR": [
+    "appnext",
     "ironsrc",
-    "mintegral",
-    "display",
     "unity",
-    "mopub",
-    "appnext"
+    "display",
+    "tappx"
   ],
   "NU": [
+    "appnext",
     "display",
-    "appnext"
+    "tappx"
   ],
   "CK": [
+    "appnext",
     "mopub",
-    "unity",
+    "mintegral",
     "display",
     "ironsrc",
-    "mintegral",
-    "appnext"
+    "unity",
+    "tappx"
   ],
   "XK": [
-    "ironsrc",
+    "appnext",
     "unity",
-    "display",
     "mopub",
-    "appnext"
+    "display",
+    "ironsrc",
+    "tappx"
   ],
   "CI": [
+    "appnext",
     "mopub",
     "unity",
     "display",
-    "ironsrc",
     "mintegral",
-    "appnext"
+    "ironsrc",
+    "tappx"
   ],
   "CH": [
-    "mintegral",
+    "appnext",
     "mopub",
-    "display",
     "unity",
+    "display",
+    "mintegral",
     "ironsrc",
-    "appnext"
+    "tappx"
   ],
   "CO": [
-    "mopub",
+    "appnext",
     "ironsrc",
+    "mopub",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "CN": [
-    "unity",
+    "appnext",
+    "mintegral",
     "mopub",
     "display",
     "ironsrc",
-    "mintegral",
-    "appnext"
+    "unity",
+    "tappx"
   ],
   "CM": [
+    "appnext",
     "mopub",
-    "ironsrc",
-    "display",
     "unity",
+    "display",
     "mintegral",
-    "appnext"
+    "ironsrc",
+    "tappx"
   ],
   "CL": [
-    "mopub",
+    "appnext",
     "ironsrc",
+    "mopub",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "CC": [
-    "mopub",
-    "ironsrc",
+    "appnext",
     "display",
-    "appnext"
+    "tappx"
   ],
   "CA": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
-    "unity",
     "mintegral",
-    "appnext"
+    "unity",
+    "tappx"
   ],
   "CG": [
-    "mopub",
-    "mintegral",
-    "display",
+    "appnext",
     "unity",
     "ironsrc",
-    "appnext"
+    "display",
+    "mintegral",
+    "mopub",
+    "tappx"
   ],
   "CF": [
-    "unity",
+    "appnext",
+    "mintegral",
     "mopub",
     "display",
     "ironsrc",
-    "mintegral",
-    "appnext"
+    "unity",
+    "tappx"
   ],
   "CD": [
+    "appnext",
     "ironsrc",
-    "mopub",
-    "display",
     "unity",
+    "display",
     "mintegral",
-    "appnext"
+    "mopub",
+    "tappx"
   ],
   "CZ": [
+    "appnext",
     "ironsrc",
     "mopub",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "CY": [
-    "unity",
+    "appnext",
+    "mintegral",
     "mopub",
     "display",
     "ironsrc",
-    "mintegral",
-    "appnext"
+    "unity",
+    "tappx"
   ],
   "CX": [
+    "appnext",
     "display",
-    "appnext"
+    "tappx"
   ],
   "CR": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "CW": [
-    "unity",
-    "mopub",
-    "display",
+    "appnext",
     "ironsrc",
     "mintegral",
-    "appnext"
+    "display",
+    "mopub",
+    "unity",
+    "tappx"
   ],
   "CV": [
+    "appnext",
+    "mintegral",
     "mopub",
-    "unity",
     "display",
     "ironsrc",
-    "mintegral",
-    "appnext"
+    "unity",
+    "tappx"
   ],
   "CU": [
-    "ironsrc",
+    "appnext",
     "mintegral",
+    "ironsrc",
     "display",
-    "appnext"
+    "tappx"
   ],
   "SZ": [
-    "ironsrc",
-    "mintegral",
-    "display",
+    "appnext",
     "unity",
     "mopub",
-    "appnext"
+    "display",
+    "mintegral",
+    "ironsrc",
+    "tappx"
   ],
   "SY": [
-    "ironsrc",
+    "appnext",
     "mintegral",
+    "ironsrc",
     "display",
-    "appnext"
+    "tappx"
   ],
   "SX": [
-    "ironsrc",
-    "mintegral",
-    "display",
+    "appnext",
     "unity",
     "mopub",
-    "appnext"
+    "display",
+    "mintegral",
+    "ironsrc",
+    "tappx"
   ],
   "KG": [
+    "appnext",
     "unity",
-    "mopub",
-    "display",
     "ironsrc",
+    "display",
     "mintegral",
-    "appnext"
+    "mopub",
+    "tappx"
   ],
   "KE": [
+    "appnext",
+    "ironsrc",
+    "unity",
+    "display",
     "mopub",
     "mintegral",
-    "display",
-    "unity",
-    "ironsrc",
-    "appnext"
+    "tappx"
   ],
   "SS": [
-    "ironsrc",
+    "appnext",
+    "mopub",
     "mintegral",
     "display",
-    "unity",
-    "mopub",
-    "appnext"
+    "ironsrc",
+    "tappx"
   ],
   "SR": [
-    "ironsrc",
+    "appnext",
+    "mopub",
     "mintegral",
     "display",
+    "ironsrc",
     "unity",
-    "mopub",
-    "appnext"
+    "tappx"
   ],
   "KI": [
+    "appnext",
     "ironsrc",
-    "mintegral",
-    "display",
     "unity",
-    "mopub",
-    "appnext"
+    "display",
+    "tappx"
   ],
   "KH": [
-    "mopub",
+    "appnext",
     "ironsrc",
-    "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "display",
+    "mopub",
+    "mintegral",
+    "tappx"
   ],
   "KN": [
+    "appnext",
+    "mopub",
     "ironsrc",
-    "mintegral",
     "display",
     "unity",
-    "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "KM": [
+    "appnext",
     "ironsrc",
-    "mintegral",
-    "display",
     "unity",
+    "display",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "ST": [
-    "ironsrc",
+    "appnext",
+    "mopub",
     "mintegral",
     "display",
+    "ironsrc",
     "unity",
-    "mopub",
-    "appnext"
+    "tappx"
   ],
   "SK": [
-    "mopub",
+    "appnext",
     "unity",
-    "display",
     "ironsrc",
+    "display",
+    "mopub",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "KR": [
+    "appnext",
     "mintegral",
     "ironsrc",
     "display",
     "unity",
     "mopub",
-    "appnext"
+    "tappx"
   ],
   "SI": [
+    "appnext",
     "mopub",
-    "unity",
+    "mintegral",
     "display",
     "ironsrc",
-    "mintegral",
-    "appnext"
+    "unity",
+    "tappx"
   ],
   "KP": [
+    "appnext",
     "display",
-    "appnext"
+    "tappx"
   ],
   "KW": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "SN": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "SM": [
-    "ironsrc",
+    "appnext",
+    "mopub",
     "mintegral",
     "display",
+    "ironsrc",
     "unity",
-    "mopub",
-    "appnext"
+    "tappx"
   ],
   "SL": [
-    "unity",
+    "appnext",
+    "mopub",
     "mintegral",
     "display",
     "ironsrc",
-    "mopub",
-    "appnext"
+    "unity",
+    "tappx"
   ],
   "SC": [
+    "appnext",
     "mopub",
-    "ironsrc",
-    "display",
     "mintegral",
+    "display",
+    "ironsrc",
     "unity",
-    "appnext"
+    "tappx"
   ],
   "KZ": [
-    "unity",
+    "appnext",
     "ironsrc",
-    "display",
     "mopub",
+    "display",
+    "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "KY": [
-    "mopub",
+    "appnext",
     "ironsrc",
-    "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "display",
+    "mopub",
+    "mintegral",
+    "tappx"
   ],
   "SG": [
-    "ironsrc",
-    "mintegral",
-    "display",
+    "appnext",
     "mopub",
     "unity",
-    "appnext"
+    "display",
+    "ironsrc",
+    "mintegral",
+    "tappx"
   ],
   "SE": [
-    "unity",
-    "mopub",
-    "display",
-    "ironsrc",
+    "appnext",
     "mintegral",
-    "appnext"
+    "unity",
+    "display",
+    "mopub",
+    "ironsrc",
+    "tappx"
   ],
   "SD": [
+    "appnext",
     "ironsrc",
     "mintegral",
     "display",
-    "appnext"
+    "unity",
+    "tappx"
   ],
   "DO": [
+    "appnext",
     "ironsrc",
     "mopub",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "DM": [
-    "unity",
+    "appnext",
+    "mintegral",
     "mopub",
     "display",
     "ironsrc",
-    "mintegral",
-    "appnext"
+    "unity",
+    "tappx"
   ],
   "DJ": [
-    "unity",
-    "mopub",
-    "display",
+    "appnext",
     "ironsrc",
     "mintegral",
-    "appnext"
+    "display",
+    "mopub",
+    "unity",
+    "tappx"
   ],
   "DK": [
-    "ironsrc",
+    "appnext",
+    "mopub",
     "unity",
     "display",
-    "mopub",
+    "ironsrc",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "VG": [
-    "ironsrc",
-    "mintegral",
-    "display",
+    "appnext",
     "unity",
     "mopub",
-    "appnext"
+    "display",
+    "mintegral",
+    "ironsrc",
+    "tappx"
   ],
   "DE": [
-    "unity",
+    "appnext",
     "ironsrc",
+    "unity",
     "display",
     "mopub",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "YE": [
-    "ironsrc",
-    "mintegral",
-    "display",
+    "appnext",
     "unity",
     "mopub",
-    "appnext"
+    "display",
+    "mintegral",
+    "ironsrc",
+    "tappx"
   ],
   "DZ": [
-    "mopub",
+    "appnext",
+    "ironsrc",
     "mintegral",
     "display",
-    "ironsrc",
+    "mopub",
     "unity",
-    "appnext"
+    "tappx"
   ],
   "US": [
-    "unity",
+    "appnext",
     "ironsrc",
-    "display",
     "mopub",
+    "display",
+    "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "UY": [
-    "unity",
+    "appnext",
+    "mopub",
     "ironsrc",
     "display",
-    "mopub",
+    "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "YT": [
-    "ironsrc",
-    "mintegral",
-    "display",
+    "appnext",
     "unity",
     "mopub",
-    "appnext"
+    "display",
+    "mintegral",
+    "ironsrc",
+    "tappx"
   ],
   "UM": [
+    "appnext",
     "display",
-    "appnext"
+    "tappx"
   ],
   "LB": [
+    "appnext",
     "mopub",
     "unity",
     "display",
     "ironsrc",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "LC": [
+    "appnext",
     "ironsrc",
     "mopub",
     "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "LA": [
-    "ironsrc",
-    "mintegral",
-    "display",
+    "appnext",
     "mopub",
+    "ironsrc",
+    "display",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "TV": [
+    "appnext",
+    "unity",
+    "ironsrc",
     "display",
-    "appnext"
+    "tappx"
   ],
   "TW": [
+    "appnext",
     "mintegral",
     "mopub",
     "display",
     "unity",
     "ironsrc",
-    "appnext"
+    "tappx"
   ],
   "TT": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "TR": [
-    "mopub",
+    "appnext",
     "unity",
+    "mopub",
     "display",
     "ironsrc",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "LK": [
+    "appnext",
     "ironsrc",
-    "mintegral",
-    "display",
     "unity",
+    "display",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "LI": [
+    "appnext",
     "ironsrc",
-    "mintegral",
-    "display",
     "unity",
+    "display",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "LV": [
-    "ironsrc",
-    "unity",
-    "display",
-    "mintegral",
+    "appnext",
     "mopub",
-    "appnext"
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "tappx"
   ],
   "TO": [
-    "ironsrc",
-    "mintegral",
-    "display",
+    "appnext",
     "unity",
     "mopub",
-    "appnext"
+    "display",
+    "mintegral",
+    "ironsrc",
+    "tappx"
   ],
   "LT": [
+    "appnext",
     "unity",
     "ironsrc",
     "display",
-    "mintegral",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "LU": [
-    "ironsrc",
+    "appnext",
     "unity",
+    "ironsrc",
     "display",
-    "mintegral",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "LR": [
+    "appnext",
     "ironsrc",
-    "mintegral",
-    "display",
     "unity",
+    "display",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "LS": [
-    "mopub",
+    "appnext",
     "ironsrc",
-    "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "display",
+    "mopub",
+    "mintegral",
+    "tappx"
   ],
   "TH": [
-    "ironsrc",
+    "appnext",
     "mopub",
+    "ironsrc",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "TF": [
+    "appnext",
     "display",
-    "appnext"
+    "tappx"
   ],
   "TG": [
+    "appnext",
     "mopub",
-    "ironsrc",
-    "display",
     "unity",
+    "display",
     "mintegral",
-    "appnext"
+    "ironsrc",
+    "tappx"
   ],
   "TD": [
-    "ironsrc",
-    "mintegral",
-    "display",
+    "appnext",
     "unity",
     "mopub",
-    "appnext"
+    "display",
+    "mintegral",
+    "ironsrc",
+    "tappx"
   ],
   "TC": [
-    "ironsrc",
-    "mintegral",
-    "display",
+    "appnext",
     "unity",
     "mopub",
-    "appnext"
+    "display",
+    "mintegral",
+    "ironsrc",
+    "tappx"
   ],
   "LY": [
-    "ironsrc",
-    "mintegral",
-    "display",
+    "appnext",
     "unity",
+    "ironsrc",
+    "display",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "VA": [
+    "appnext",
     "display",
-    "appnext"
+    "tappx"
   ],
   "VC": [
-    "ironsrc",
-    "mintegral",
-    "display",
+    "appnext",
     "unity",
     "mopub",
-    "appnext"
+    "display",
+    "mintegral",
+    "ironsrc",
+    "tappx"
   ],
   "AE": [
-    "ironsrc",
+    "appnext",
     "mopub",
-    "display",
     "unity",
+    "display",
+    "ironsrc",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "AD": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "AG": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "AF": [
-    "mopub",
-    "mintegral",
-    "display",
+    "appnext",
     "ironsrc",
     "unity",
-    "appnext"
+    "display",
+    "mopub",
+    "mintegral",
+    "tappx"
   ],
   "AI": [
-    "mopub",
+    "appnext",
     "ironsrc",
+    "mopub",
     "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "VI": [
+    "appnext",
     "mopub",
-    "ironsrc",
+    "unity",
     "display",
     "mintegral",
-    "unity",
-    "appnext"
+    "ironsrc",
+    "tappx"
   ],
   "IS": [
+    "appnext",
     "unity",
-    "ironsrc",
-    "display",
     "mintegral",
+    "display",
     "mopub",
-    "appnext"
+    "ironsrc",
+    "tappx"
   ],
   "IR": [
+    "appnext",
     "ironsrc",
     "mintegral",
     "display",
-    "appnext"
+    "tappx"
   ],
   "AM": [
-    "ironsrc",
+    "appnext",
     "mopub",
+    "ironsrc",
     "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "AL": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "AO": [
+    "appnext",
     "mopub",
-    "unity",
-    "display",
-    "ironsrc",
     "mintegral",
-    "appnext"
+    "display",
+    "unity",
+    "ironsrc",
+    "tappx"
   ],
   "AQ": [
+    "appnext",
     "display",
-    "appnext"
+    "tappx"
   ],
   "AS": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "AR": [
-    "mopub",
+    "appnext",
     "ironsrc",
+    "mopub",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "AU": [
-    "unity",
+    "appnext",
     "ironsrc",
-    "display",
     "mopub",
+    "display",
+    "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "AT": [
-    "unity",
+    "appnext",
     "mopub",
+    "unity",
     "display",
     "ironsrc",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "AW": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
-    "mintegral",
     "unity",
-    "appnext"
+    "mintegral",
+    "tappx"
   ],
   "IN": [
+    "appnext",
     "mopub",
     "ironsrc",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "AX": [
-    "mopub",
-    "ironsrc",
-    "display",
+    "appnext",
     "unity",
-    "appnext"
+    "display",
+    "tappx"
   ],
   "AZ": [
+    "appnext",
     "ironsrc",
     "mopub",
     "display",
     "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "IE": [
+    "appnext",
     "mopub",
-    "mintegral",
-    "display",
     "unity",
+    "display",
+    "mintegral",
     "ironsrc",
-    "appnext"
+    "tappx"
   ],
   "ID": [
+    "appnext",
     "ironsrc",
     "mopub",
     "display",
     "mintegral",
     "unity",
-    "appnext"
+    "tappx"
   ],
   "UA": [
-    "unity",
+    "appnext",
     "mopub",
-    "display",
     "ironsrc",
+    "display",
+    "unity",
     "mintegral",
-    "appnext"
+    "tappx"
   ],
   "QA": [
+    "appnext",
     "mopub",
     "unity",
     "display",
-    "ironsrc",
     "mintegral",
-    "appnext"
+    "ironsrc",
+    "tappx"
   ],
   "MZ": [
+    "appnext",
     "ironsrc",
-    "mintegral",
-    "display",
     "unity",
+    "display",
     "mopub",
-    "appnext"
+    "mintegral",
+    "tappx"
   ]
 }
