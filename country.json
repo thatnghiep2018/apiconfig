@@ -1,0 +1,1898 @@
+{
+  "BD": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "BE": [
+    "mintegral",
+    "mopub",
+    "display",
+    "unity",
+    "ironsrc",
+    "appnext"
+  ],
+  "BF": [
+    "ironsrc",
+    "unity",
+    "display",
+    "mopub",
+    "mintegral",
+    "appnext"
+  ],
+  "BG": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "BA": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "BB": [
+    "mintegral",
+    "mopub",
+    "display",
+    "ironsrc",
+    "unity",
+    "appnext"
+  ],
+  "WF": [
+    "ironsrc",
+    "unity",
+    "display",
+    "mopub",
+    "appnext"
+  ],
+  "BL": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "appnext"
+  ],
+  "BM": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "BN": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "BO": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "BH": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "BI": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "BJ": [
+    "ironsrc",
+    "unity",
+    "display",
+    "mintegral",
+    "mopub",
+    "appnext"
+  ],
+  "BT": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "JM": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "BV": [
+    "display",
+    "appnext"
+  ],
+  "BW": [
+    "ironsrc",
+    "unity",
+    "display",
+    "mopub",
+    "mintegral",
+    "appnext"
+  ],
+  "WS": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "BQ": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "appnext"
+  ],
+  "BR": [
+    "mintegral",
+    "ironsrc",
+    "display",
+    "mopub",
+    "unity",
+    "appnext"
+  ],
+  "BS": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "JE": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "BY": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "BZ": [
+    "unity",
+    "mopub",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "RU": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "RW": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "RS": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "TL": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "RE": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "TM": [
+    "display",
+    "appnext"
+  ],
+  "TJ": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "RO": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "TK": [
+    "display",
+    "appnext"
+  ],
+  "GW": [
+    "mintegral",
+    "unity",
+    "display",
+    "mopub",
+    "ironsrc",
+    "appnext"
+  ],
+  "GU": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "GT": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "GS": [
+    "display",
+    "appnext"
+  ],
+  "GR": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "GQ": [
+    "mintegral",
+    "unity",
+    "display",
+    "mopub",
+    "ironsrc",
+    "appnext"
+  ],
+  "GP": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "JP": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "mopub",
+    "unity",
+    "appnext"
+  ],
+  "GY": [
+    "mintegral",
+    "unity",
+    "display",
+    "mopub",
+    "ironsrc",
+    "appnext"
+  ],
+  "GG": [
+    "mintegral",
+    "unity",
+    "display",
+    "mopub",
+    "ironsrc",
+    "appnext"
+  ],
+  "GF": [
+    "unity",
+    "mintegral",
+    "display",
+    "mopub",
+    "ironsrc",
+    "appnext"
+  ],
+  "GE": [
+    "mopub",
+    "mintegral",
+    "display",
+    "unity",
+    "ironsrc",
+    "appnext"
+  ],
+  "GD": [
+    "mintegral",
+    "unity",
+    "display",
+    "mopub",
+    "ironsrc",
+    "appnext"
+  ],
+  "GB": [
+    "ironsrc",
+    "unity",
+    "display",
+    "mopub",
+    "appnext"
+  ],
+  "GA": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "SV": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "GN": [
+    "unity",
+    "mintegral",
+    "display",
+    "mopub",
+    "ironsrc",
+    "appnext"
+  ],
+  "GM": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "GL": [
+    "mintegral",
+    "unity",
+    "display",
+    "mopub",
+    "ironsrc",
+    "appnext"
+  ],
+  "GI": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "GH": [
+    "mopub",
+    "mintegral",
+    "display",
+    "unity",
+    "ironsrc",
+    "appnext"
+  ],
+  "OM": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "TN": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "JO": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "HR": [
+    "unity",
+    "mintegral",
+    "display",
+    "mopub",
+    "ironsrc",
+    "appnext"
+  ],
+  "HT": [
+    "mopub",
+    "unity",
+    "display",
+    "mintegral",
+    "ironsrc",
+    "appnext"
+  ],
+  "HU": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "HK": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "HN": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "HM": [
+    "display",
+    "appnext"
+  ],
+  "VE": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "PR": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "PS": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "PW": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "PT": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "SJ": [
+    "display",
+    "appnext"
+  ],
+  "PY": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "IQ": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "PA": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "PF": [
+    "unity",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "mopub",
+    "appnext"
+  ],
+  "PG": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "PE": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "PK": [
+    "mopub",
+    "mintegral",
+    "display",
+    "ironsrc",
+    "unity",
+    "appnext"
+  ],
+  "PH": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "PN": [
+    "display",
+    "appnext"
+  ],
+  "PL": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "PM": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "ZM": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "EH": [
+    "display",
+    "appnext"
+  ],
+  "EE": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "EG": [
+    "mopub",
+    "mintegral",
+    "display",
+    "ironsrc",
+    "unity",
+    "appnext"
+  ],
+  "ZA": [
+    "ironsrc",
+    "unity",
+    "display",
+    "mopub",
+    "mintegral",
+    "appnext"
+  ],
+  "EC": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "IT": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "VN": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "SB": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "ET": [
+    "ironsrc",
+    "unity",
+    "display",
+    "mopub",
+    "mintegral",
+    "appnext"
+  ],
+  "SO": [
+    "mintegral",
+    "mopub",
+    "display",
+    "ironsrc",
+    "unity",
+    "appnext"
+  ],
+  "ZW": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "SA": [
+    "mopub",
+    "mintegral",
+    "display",
+    "ironsrc",
+    "unity",
+    "appnext"
+  ],
+  "ES": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "mopub",
+    "unity",
+    "appnext"
+  ],
+  "ER": [
+    "display",
+    "appnext"
+  ],
+  "ME": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "MD": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "MG": [
+    "unity",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "mopub",
+    "appnext"
+  ],
+  "MF": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "MA": [
+    "unity",
+    "mopub",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "MC": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "UZ": [
+    "ironsrc",
+    "unity",
+    "display",
+    "mintegral",
+    "mopub",
+    "appnext"
+  ],
+  "MM": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "ML": [
+    "unity",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "mopub",
+    "appnext"
+  ],
+  "MO": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "MN": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "MH": [
+    "ironsrc",
+    "unity",
+    "display",
+    "appnext"
+  ],
+  "MK": [
+    "mintegral",
+    "ironsrc",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "MU": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "MT": [
+    "unity",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "mopub",
+    "appnext"
+  ],
+  "MW": [
+    "unity",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "mopub",
+    "appnext"
+  ],
+  "MV": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "MQ": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "MP": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "MS": [
+    "ironsrc",
+    "unity",
+    "display",
+    "mopub",
+    "appnext"
+  ],
+  "MR": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "IM": [
+    "mintegral",
+    "unity",
+    "display",
+    "mopub",
+    "ironsrc",
+    "appnext"
+  ],
+  "UG": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "TZ": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "MY": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "mopub",
+    "unity",
+    "appnext"
+  ],
+  "MX": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "IL": [
+    "mintegral",
+    "ironsrc",
+    "display",
+    "mopub",
+    "unity",
+    "appnext"
+  ],
+  "FR": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "IO": [
+    "display",
+    "appnext"
+  ],
+  "SH": [
+    "display",
+    "appnext"
+  ],
+  "FI": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "FJ": [
+    "ironsrc",
+    "unity",
+    "display",
+    "mopub",
+    "mintegral",
+    "appnext"
+  ],
+  "FK": [
+    "unity",
+    "ironsrc",
+    "display",
+    "appnext"
+  ],
+  "FM": [
+    "mintegral",
+    "unity",
+    "display",
+    "ironsrc",
+    "appnext"
+  ],
+  "FO": [
+    "mopub",
+    "mintegral",
+    "display",
+    "unity",
+    "ironsrc",
+    "appnext"
+  ],
+  "NI": [
+    "mopub",
+    "mintegral",
+    "display",
+    "unity",
+    "ironsrc",
+    "appnext"
+  ],
+  "NL": [
+    "ironsrc",
+    "unity",
+    "display",
+    "mopub",
+    "mintegral",
+    "appnext"
+  ],
+  "NO": [
+    "unity",
+    "mopub",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "NA": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "VU": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "NC": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "NE": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "NF": [
+    "display",
+    "appnext"
+  ],
+  "NG": [
+    "mopub",
+    "mintegral",
+    "display",
+    "unity",
+    "ironsrc",
+    "appnext"
+  ],
+  "NZ": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "NP": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "NR": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "NU": [
+    "display",
+    "appnext"
+  ],
+  "CK": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "XK": [
+    "ironsrc",
+    "unity",
+    "display",
+    "mopub",
+    "appnext"
+  ],
+  "CI": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "CH": [
+    "mintegral",
+    "mopub",
+    "display",
+    "unity",
+    "ironsrc",
+    "appnext"
+  ],
+  "CO": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "CN": [
+    "unity",
+    "mopub",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "CM": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "CL": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "CC": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "appnext"
+  ],
+  "CA": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "CG": [
+    "mopub",
+    "mintegral",
+    "display",
+    "unity",
+    "ironsrc",
+    "appnext"
+  ],
+  "CF": [
+    "unity",
+    "mopub",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "CD": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "CZ": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "CY": [
+    "unity",
+    "mopub",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "CX": [
+    "display",
+    "appnext"
+  ],
+  "CR": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "CW": [
+    "unity",
+    "mopub",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "CV": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "CU": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "appnext"
+  ],
+  "SZ": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "SY": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "appnext"
+  ],
+  "SX": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "KG": [
+    "unity",
+    "mopub",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "KE": [
+    "mopub",
+    "mintegral",
+    "display",
+    "unity",
+    "ironsrc",
+    "appnext"
+  ],
+  "SS": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "SR": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "KI": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "KH": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "KN": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "KM": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "ST": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "SK": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "KR": [
+    "mintegral",
+    "ironsrc",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "SI": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "KP": [
+    "display",
+    "appnext"
+  ],
+  "KW": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "SN": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "SM": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "SL": [
+    "unity",
+    "mintegral",
+    "display",
+    "ironsrc",
+    "mopub",
+    "appnext"
+  ],
+  "SC": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "KZ": [
+    "unity",
+    "ironsrc",
+    "display",
+    "mopub",
+    "mintegral",
+    "appnext"
+  ],
+  "KY": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "SG": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "mopub",
+    "unity",
+    "appnext"
+  ],
+  "SE": [
+    "unity",
+    "mopub",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "SD": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "appnext"
+  ],
+  "DO": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "DM": [
+    "unity",
+    "mopub",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "DJ": [
+    "unity",
+    "mopub",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "DK": [
+    "ironsrc",
+    "unity",
+    "display",
+    "mopub",
+    "mintegral",
+    "appnext"
+  ],
+  "VG": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "DE": [
+    "unity",
+    "ironsrc",
+    "display",
+    "mopub",
+    "mintegral",
+    "appnext"
+  ],
+  "YE": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "DZ": [
+    "mopub",
+    "mintegral",
+    "display",
+    "ironsrc",
+    "unity",
+    "appnext"
+  ],
+  "US": [
+    "unity",
+    "ironsrc",
+    "display",
+    "mopub",
+    "mintegral",
+    "appnext"
+  ],
+  "UY": [
+    "unity",
+    "ironsrc",
+    "display",
+    "mopub",
+    "mintegral",
+    "appnext"
+  ],
+  "YT": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "UM": [
+    "display",
+    "appnext"
+  ],
+  "LB": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "LC": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "LA": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "mopub",
+    "unity",
+    "appnext"
+  ],
+  "TV": [
+    "display",
+    "appnext"
+  ],
+  "TW": [
+    "mintegral",
+    "mopub",
+    "display",
+    "unity",
+    "ironsrc",
+    "appnext"
+  ],
+  "TT": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "TR": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "LK": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "LI": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "LV": [
+    "ironsrc",
+    "unity",
+    "display",
+    "mintegral",
+    "mopub",
+    "appnext"
+  ],
+  "TO": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "LT": [
+    "unity",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "mopub",
+    "appnext"
+  ],
+  "LU": [
+    "ironsrc",
+    "unity",
+    "display",
+    "mintegral",
+    "mopub",
+    "appnext"
+  ],
+  "LR": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "LS": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "TH": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "TF": [
+    "display",
+    "appnext"
+  ],
+  "TG": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "TD": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "TC": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "LY": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "VA": [
+    "display",
+    "appnext"
+  ],
+  "VC": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ],
+  "AE": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "AD": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "AG": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "AF": [
+    "mopub",
+    "mintegral",
+    "display",
+    "ironsrc",
+    "unity",
+    "appnext"
+  ],
+  "AI": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "VI": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "IS": [
+    "unity",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "mopub",
+    "appnext"
+  ],
+  "IR": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "appnext"
+  ],
+  "AM": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "AL": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "AO": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "AQ": [
+    "display",
+    "appnext"
+  ],
+  "AS": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "appnext"
+  ],
+  "AR": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "AU": [
+    "unity",
+    "ironsrc",
+    "display",
+    "mopub",
+    "mintegral",
+    "appnext"
+  ],
+  "AT": [
+    "unity",
+    "mopub",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "AW": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "IN": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "AX": [
+    "mopub",
+    "ironsrc",
+    "display",
+    "unity",
+    "appnext"
+  ],
+  "AZ": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "unity",
+    "mintegral",
+    "appnext"
+  ],
+  "IE": [
+    "mopub",
+    "mintegral",
+    "display",
+    "unity",
+    "ironsrc",
+    "appnext"
+  ],
+  "ID": [
+    "ironsrc",
+    "mopub",
+    "display",
+    "mintegral",
+    "unity",
+    "appnext"
+  ],
+  "UA": [
+    "unity",
+    "mopub",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "QA": [
+    "mopub",
+    "unity",
+    "display",
+    "ironsrc",
+    "mintegral",
+    "appnext"
+  ],
+  "MZ": [
+    "ironsrc",
+    "mintegral",
+    "display",
+    "unity",
+    "mopub",
+    "appnext"
+  ]
+}
